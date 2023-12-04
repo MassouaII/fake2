@@ -1,0 +1,24 @@
+{
+"chores": [
+  {"id":1,
+    "title": "Groceries",
+    "description": "Going to the supermarket to buy food."
+  },
+  {"id":2,
+    "title": "Pick up daughter",
+    "description": "Going to the daycare to pick up the child."
+  },
+  {"id":3,
+    "title": "Dishes",
+    "description": "Dishwasher and hand washing the dinner plates, glasses and cutlery."
+  },
+  {"id":4,
+    "title": "Birthday organisation",
+    "description": "Going to the shop to buy "
+  },
+  {"id":5,
+    "title": "Wash baby",
+    "description": "Going to the supermarket etc"
+  }
+]
+}
